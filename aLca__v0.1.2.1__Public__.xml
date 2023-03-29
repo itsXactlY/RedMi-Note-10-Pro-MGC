@@ -121,7 +121,7 @@
     <string name="ses_120fps_id_key_1"></string>
     <string name="ses_120fps_id_key_4"></string>
     <string name="ses_120fps_id_key_3"></string>
-    <string name="pref_video_stab_button_untouched_count">2</string>
+    <string name="pref_video_stab_button_untouched_count">3</string>
     <string name="ses_120fps_id_key_0">1</string>
     <string name="pref_social_app_com_google_android_apps_messaging">0</string>
     <boolean name="autotimer_tutorial_shown" value="true" />
@@ -205,7 +205,7 @@
     <string name="pref_has_checked_dual_ev_brightness">0</string>
     <string name="pref_camera_dynamic_depth_enabled_key">0</string>
     <string name="pref_has_shown_longp_education">0</string>
-    <string name="pref_camera_picturesize_front_key"></string>
+    <string name="pref_camera_picturesize_front_key">2320x1744</string>
     <string name="pref_camera_grid_lines_mode">3</string>
     <string name="c_c_a_m_quality_key_3">0</string>
     <string name="c_c_a_m_quality_key_0">3</string>
@@ -726,7 +726,7 @@
     <string name="01FCF62CE_a_3f80_0000_pthcr_key_0">2.21875</string>
     <string name="idle_focus_key_5">0</string>
     <string name="01FCF62CE_a_3f80_0000_pthcr_key_1">1.0</string>
-    <string name="pref_camera_dirty_lens_history_key0">-1.9623202|-2.7693555|-4.135212|-3.7940035|-6.2851195|0.70363796|-2.8436582|-1.7790059|-3.2963274|-6.6713567|-2.386185|-3.9094603|-5.104719|-1.3751261|-2.5782418|-4.1467686|-3.6900356|-3.8301141|-9.73692|-1.5328373|-4.775932|-0.49553177|-2.058136|-3.95308|-0.23091754|-3.438122|-6.323436|-0.62827605|-5.122563|-4.9334445|-5.338317|-4.8335443|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-6.2851195|0.70363796|-2.8436582|-1.7790059|-3.2963274|-6.6713567|-2.386185|-3.9094603|-5.104719|-1.3751261|-2.5782418|-4.1467686|-3.6900356|-3.8301141|-9.73692|-1.5328373|-4.775932|-0.49553177|-2.058136|-3.95308|-0.23091754|-3.438122|-6.323436|-0.62827605|-5.122563|-4.9334445|-5.338317|-4.8335443|-4.085048|-3.257679|-4.929504|-5.7945666|</string>
     <string name="pref_camera_dirty_lens_history_key1">-3.6875927|-3.7716084|</string>
     <string name="pref_camera_dirty_lens_history_key2"></string>
     <string name="lens_wl_key">4</string>
