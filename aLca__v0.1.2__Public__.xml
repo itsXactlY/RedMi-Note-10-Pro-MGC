@@ -15,7 +15,7 @@
     <string name="pref_satCCT_G_0">1.0</string>
     <string name="pref_satCCT_G_1">1.0</string>
     <string name="01FCF62CA_a_3f80_0000_pthcr_key_1">1.0</string>
-    <string name="01FCF62CA_a_3f80_0000_pthcr_key_0">1.0</string>
+    <string name="01FCF62CA_a_3f80_0000_pthcr_key_0">2.21875</string>
     <string name="pref_satCCT_G_3">1.0</string>
     <string name="pref_satCCT_G_4">1.0</string>
     <string name="pref_satCCT_G_5">1.0</string>
@@ -85,7 +85,7 @@
     <string name="gawb_user_rg_b_key_0">0.442842</string>
     <string name="dev_setting_filter_key"></string>
     <string name="gawb_user_rg_b_key_1">0.442842</string>
-    <string name="c_c_m_quality_key_0">0</string>
+    <string name="c_c_m_quality_key_0">3</string>
     <string name="gawb_user_rg_b_key_3"></string>
     <string name="gawb_user_rg_b_key_4"></string>
     <string name="c_c_m_quality_key_1">0</string>
@@ -205,10 +205,10 @@
     <string name="pref_has_checked_dual_ev_brightness">0</string>
     <string name="pref_camera_dynamic_depth_enabled_key">0</string>
     <string name="pref_has_shown_longp_education">0</string>
-    <string name="pref_camera_picturesize_front_key">2320x1744</string>
+    <string name="pref_camera_picturesize_front_key"></string>
     <string name="pref_camera_grid_lines_mode">3</string>
     <string name="c_c_a_m_quality_key_3">0</string>
-    <string name="c_c_a_m_quality_key_0">0</string>
+    <string name="c_c_a_m_quality_key_0">3</string>
     <string name="c_c_a_m_quality_key_1">0</string>
     <string name="pref_imax_audio_enabled_key">0</string>
     <string name="gawb_user_bg_d_key_5"></string>
@@ -237,7 +237,7 @@
     <string name="01FCF618A_a_3f80_0000_pthcr_key_4">1.0</string>
     <string name="01FCF618A_a_3f80_0000_pthcr_key_5">1.0</string>
     <string name="01FCF618A_a_3f80_0000_pthcr_key_6">1.0</string>
-    <string name="01FCF618A_a_3f80_0000_pthcr_key_0">1.0</string>
+    <string name="01FCF618A_a_3f80_0000_pthcr_key_0">2.21875</string>
     <string name="01FCF618A_a_3f80_0000_pthcr_key_1">1.0</string>
     <string name="01FCF618A_a_3f80_0000_pthcr_key_3">1.0</string>
     <string name="gawb_user_rg_p_key_6"></string>
@@ -319,7 +319,7 @@
     <string name="01FCF5F0A_a_3f80_0000_pthcr_key_4">1.0</string>
     <string name="01FCF5F0A_a_3f80_0000_pthcr_key_5">1.0</string>
     <string name="01FCF5F0A_a_3f80_0000_pthcr_key_3">1.0</string>
-    <string name="01FCF5F0A_a_3f80_0000_pthcr_key_0">1.0</string>
+    <string name="01FCF5F0A_a_3f80_0000_pthcr_key_0">2.21875</string>
     <string name="0244B498_null_pthcr_key_1">8.5</string>
     <string name="0244B498_null_pthcr_key_0">6.5</string>
     <string name="01FCF5F0A_a_3f80_0000_pthcr_key_1">1.0</string>
@@ -357,7 +357,7 @@
     <string name="pref_global_hue_5">0.0</string>
     <string name="gawb_user_bg_c_key_6"></string>
     <string name="pref_global_hue_4">0.0</string>
-    <string name="n_r_m_quality_key_0">0</string>
+    <string name="n_r_m_quality_key_0">3</string>
     <string name="gawb_user_bg_c_key_5"></string>
     <string name="gawb_user_bg_c_key_4"></string>
     <string name="pref_global_hue_3">0.0</string>
@@ -396,7 +396,7 @@
     <string name="pref_camera_picturesize_back_key">4000x3000</string>
     <string name="gawb_user_rg_h_key_5"></string>
     <string name="01FCF730E_a_3ff0_000000000000_pthcr_key_5">1.0</string>
-    <string name="pref_camera_back_flashmode_key">off</string>
+    <string name="pref_camera_back_flashmode_key">ns</string>
     <string name="gawb_user_rg_h_key_6"></string>
     <string name="01FCF730E_a_3ff0_000000000000_pthcr_key_6">1.0</string>
     <string name="gawb_user_rg_h_key_3"></string>
@@ -443,10 +443,10 @@
     <string name="0293775CA_a_3f80_0000_pthcr_key_4">1.0</string>
     <string name="01FCF604A_a_3f80_0000_pthcr_key_3">1.0</string>
     <string name="key_aspect_ratio">1</string>
-    <string name="01FCF604A_a_3f80_0000_pthcr_key_0">1.0</string>
+    <string name="01FCF604A_a_3f80_0000_pthcr_key_0">2.21875</string>
     <string name="galley_key">gallery.photomanager.picturegalleryapp.imagegallery</string>
-    <string name="0293775CA_a_3f80_0000_pthcr_key_0">1.0</string>
-    <string name="t_m_quality_key_0">0</string>
+    <string name="0293775CA_a_3f80_0000_pthcr_key_0">2.21875</string>
+    <string name="t_m_quality_key_0">5</string>
     <string name="ses_tl_id_key_4"></string>
     <string name="0293775CA_a_3f80_0000_pthcr_key_5">1.0</string>
     <string name="ses_tl_id_key_3"></string>
@@ -485,7 +485,7 @@
     <string name="01FCF5F0E_a_3f80_0000_pthcr_key_6">1.0</string>
     <string name="0293775CE_a_3f80_0000_pthcr_key_0">2.21875</string>
     <string name="01FCF604E_a_3f80_0000_pthcr_key_0">2.21875</string>
-    <string name="01FCF730A_a_3ff0_000000000000_pthcr_key_0">1.0</string>
+    <string name="01FCF730A_a_3ff0_000000000000_pthcr_key_0">2.125</string>
     <string name="pref_video_fps_4k_key">FPS_30</string>
     <string name="reset_manual_focus_key">1</string>
     <string name="0293775CE_a_3f80_0000_pthcr_key_5">1.0</string>
@@ -575,7 +575,7 @@
     <string name="s_m_quality_key_4">0</string>
     <string name="s_m_quality_key_3">0</string>
     <string name="s_m_quality_key_1">0</string>
-    <string name="s_m_quality_key_0">0</string>
+    <string name="s_m_quality_key_0">3</string>
     <string name="pref_customCCT3_0"></string>
     <string name="delay_focus_key_3">6</string>
     <string name="delay_focus_key_4">6</string>
@@ -588,7 +588,7 @@
     <string name="device_hdrplus_key_2">blueline</string>
     <string name="device_hdrplus_key_1">blueline</string>
     <string name="device_hdrplus_key_0">coral</string>
-    <string name="pref_camera_gawb_b_photo">0</string>
+    <string name="pref_camera_gawb_b_photo">1</string>
     <string name="slow_mo_fix_0">1</string>
     <string name="frame_count_b_ns_0">0</string>
     <string name="pref_release_dialog_last_shown_version"></string>
@@ -726,7 +726,7 @@
     <string name="01FCF62CE_a_3f80_0000_pthcr_key_0">2.21875</string>
     <string name="idle_focus_key_5">0</string>
     <string name="01FCF62CE_a_3f80_0000_pthcr_key_1">1.0</string>
-    <string name="pref_camera_dirty_lens_history_key0">-5.687122|-2.6160686|-2.6431|-1.9623202|-2.7693555|-4.135212|-3.7940035|-6.2851195|0.70363796|-2.8436582|-1.7790059|-3.2963274|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-1.9623202|-2.7693555|-4.135212|-3.7940035|-6.2851195|0.70363796|-2.8436582|-1.7790059|-3.2963274|-6.6713567|-2.386185|-3.9094603|-5.104719|-1.3751261|-2.5782418|-4.1467686|-3.6900356|-3.8301141|-9.73692|-1.5328373|-4.775932|-0.49553177|-2.058136|-3.95308|-0.23091754|-3.438122|-6.323436|-0.62827605|-5.122563|-4.9334445|-5.338317|-4.8335443|</string>
     <string name="pref_camera_dirty_lens_history_key1">-3.6875927|-3.7716084|</string>
     <string name="pref_camera_dirty_lens_history_key2"></string>
     <string name="lens_wl_key">4</string>
