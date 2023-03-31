@@ -397,7 +397,7 @@
     <string name="01FCF618E_a_3f80_0000_pthcr_key_1">1.0</string>
     <string name="01FCF618E_a_3f80_0000_pthcr_key_0">1.0</string>
     <string name="01FCF618E_a_3f80_0000_pthcr_key_3">1.0</string>
-    <string name="pref_camera_picturesize_back_key"></string>
+    <string name="pref_camera_picturesize_back_key">4000x3000</string>
     <string name="gawb_user_rg_h_key_5"></string>
     <string name="01FCF730E_a_3ff0_000000000000_pthcr_key_5">1.0</string>
     <string name="pref_camera_back_flashmode_key">off</string>
@@ -731,7 +731,7 @@
     <string name="01FCF62CE_a_3f80_0000_pthcr_key_0">2.1875</string>
     <string name="idle_focus_key_5">0</string>
     <string name="01FCF62CE_a_3f80_0000_pthcr_key_1">1.0</string>
-    <string name="pref_camera_dirty_lens_history_key0">-1.5328373|-4.775932|-0.49553177|-2.058136|-3.95308|-0.23091754|-3.438122|-6.323436|-0.62827605|-5.122563|-4.9334445|-5.338317|-4.8335443|-4.085048|-3.257679|-4.929504|-5.7945666|-1.2686641|-2.3168592|-0.35377657|-1.6447351|-0.896963|-0.89845914|-4.4550056|-1.2760459|-2.830846|-1.401595|-2.3191347|-0.5664041|-4.0277762|-5.3390636|-3.279317|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-2.058136|-3.95308|-0.23091754|-3.438122|-6.323436|-0.62827605|-5.122563|-4.9334445|-5.338317|-4.8335443|-4.085048|-3.257679|-4.929504|-5.7945666|-1.2686641|-2.3168592|-0.35377657|-1.6447351|-0.896963|-0.89845914|-4.4550056|-1.2760459|-2.830846|-1.401595|-2.3191347|-0.5664041|-4.0277762|-5.3390636|-3.279317|-0.29797903|-6.1967845|-5.7408767|</string>
     <string name="pref_camera_dirty_lens_history_key1">-3.6875927|-3.7716084|</string>
     <string name="pref_camera_dirty_lens_history_key2"></string>
     <string name="lens_wl_key">4</string>
